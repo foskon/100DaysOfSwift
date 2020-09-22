@@ -1,11 +1,3 @@
-//
-//  SceneDelegate.swift
-//  HWSP1
-//
-//  Created by Carlos Manzanas Navia on 18/09/2020.
-//  Copyright © 2020 foskon. All rights reserved.
-//
-
 import UIKit
 
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
